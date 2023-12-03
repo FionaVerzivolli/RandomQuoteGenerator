@@ -1,0 +1,50 @@
+
+*{
+  padding-top: .5vw;
+  padding-bottom: .5vw;
+}
+body {
+  background: linear-gradient(to left, #38768d, #21186f, #0b0338);
+  margin-top: 5vw;
+  margin-left: 5vw;
+  color: white;
+  font-family: monospace;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+.generate, .copy{
+  font-size: 3vw;
+  border:none;
+  background-color: #c3e1ec;
+  border-radius: 5%;
+  font-family: monospace;
+  width: 20vw;
+  color: #0b0338;
+  height: 10vw;
+  margin-bottom: 1.5vw;
+}
+
+.copy{
+  margin-left: 2vw;
+}
+
+.Title {
+  display: inline-block;
+  margin-right: 10px; /* Adjust the margin as needed */
+}
+
+
+img{
+  display: inline-block;
+  height: 1.3vw;
+}
+
+.quote-message{
+  width: 50vw;
+}
+
+footer{
+  width:45vw;
+}
